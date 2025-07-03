@@ -1,0 +1,17 @@
+
+Job Title: Web Developer
+Company: Not specified
+Department: engineering
+Level: intern
+Work Mode: remote
+Location: Not specified
+Salary: EUR1K - EUR2K
+Job Type: internship
+Description: We need web developers with expertise in at least 1 of the following skills - Node.js, Nest.js, Vue.js, Laravel.
+
+Selected Intern's day-to-day responsibilities include creating websites through Node.js, Nest.js, Vue.js, etc.
+
+Please do not apply if you do not have expertise.
+
+We are looking only for serious interns. To prevent mutual waste of time, energy, and resources, any intern not working seriously can be removed with immediate effect without any benefits being given. We will give intern certificates, etc., to only those who have contributed sufficiently.
+                  
