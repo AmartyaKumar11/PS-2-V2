@@ -1,0 +1,14 @@
+Position: Data Analyst
+Experience: 2-5 Years
+
+Skills Required:
+- Strong SQL and Excel skills
+- Experience with data visualization tools like Tableau or Power BI
+- Good understanding of statistical methods
+- Ability to clean and preprocess data
+- Excellent communication and reporting skills
+
+Responsibilities:
+- Generate reports and dashboards for business teams
+- Perform ad-hoc data analysis
+- Provide data-driven insights to support decision-making

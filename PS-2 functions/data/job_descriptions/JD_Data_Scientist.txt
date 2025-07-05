@@ -1,0 +1,15 @@
+Position: Data Scientist
+Experience: 2-4 Years
+
+Skills Required:
+- Proficiency in Python, R, and SQL
+- Strong knowledge of machine learning algorithms
+- Experience with libraries like Scikit-learn, TensorFlow, and PyTorch
+- Ability to preprocess and analyze large datasets
+- Strong problem-solving skills and statistical analysis
+- Good communication and presentation skills
+
+Responsibilities:
+- Build predictive models and machine learning pipelines
+- Analyze complex datasets to extract meaningful insights
+- Communicate results to stakeholders
