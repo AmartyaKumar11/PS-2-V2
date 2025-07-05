@@ -154,3 +154,6 @@ Thumbs.db
 *.tmp
 *.bak
 *.orig
+
+# Ignore large model files
+PS-2 functions/models/siamese_encoder/model.safetensors
