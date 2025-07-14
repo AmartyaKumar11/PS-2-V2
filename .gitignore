@@ -157,3 +157,4 @@ Thumbs.db
 
 # Ignore large model files
 PS-2 functions/models/siamese_encoder/model.safetensors
+PS-2 functions/models/siamese_encoder/pytorch_model.bin
