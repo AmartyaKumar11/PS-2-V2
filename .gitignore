@@ -23,7 +23,7 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
-.installed.cfg
+.installed_cfg
 *.egg
 MANIFEST
 
@@ -158,3 +158,4 @@ Thumbs.db
 # Ignore large model files
 PS-2 functions/models/siamese_encoder/model.safetensors
 PS-2 functions/models/siamese_encoder/pytorch_model.bin
+PS-2 functions/data/raw/Manual Ranking SNN.csv
