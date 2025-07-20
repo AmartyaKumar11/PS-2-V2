@@ -1,0 +1,8 @@
+You can justify your low Cohen’s Kappa results by explaining that:
+Class Imbalance: Most candidates in your data are labeled as “Not a Fit” by both the model and the experts. This means both sides often agree just by picking the most common class, which inflates accuracy but not true agreement.
+Chance Agreement: Kappa adjusts for agreement that could happen by chance. Since “Not a Fit” is so frequent, a lot of the agreement is not meaningful, so kappa stays low.
+Expert Subjectivity: Human experts may have different interpretations, leading to less consistent consensus labels, which makes it harder for the model to match them beyond chance.
+Label Noise: Occasional typos or inconsistencies (like “Average Fitt”) can also reduce measured agreement.
+
+
+
