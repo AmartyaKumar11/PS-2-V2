@@ -157,3 +157,6 @@ Thumbs.db
 
 # Ignore large model files
 PS-2 functions/models/siamese_encoder/model.safetensors
+
+# Ignore models directory
+PS-2 functions/models/
