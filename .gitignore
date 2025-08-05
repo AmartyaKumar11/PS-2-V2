@@ -159,3 +159,6 @@ Thumbs.db
 PS-2 functions/models/siamese_encoder/model.safetensors
 PS-2 functions/models/siamese_encoder/pytorch_model.bin
 PS-2 functions/data/raw/Manual Ranking SNN.csv
+
+# Ignore models directory
+PS-2 functions/models/
